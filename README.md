@@ -3,9 +3,11 @@
 ![Visits Badge](https://badges.pufler.dev/visits/paulosabaini/paulosabaini)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/paulosabaini/)
 
-Hey there 👋
+Ciao 👋
 
-I'm Paulo, a Brazilian software engineer who loves technology and works with mobile app development. My main hobby is reading but I also like to listen to some rock and roll, watch movies, learn new things, and casually play video games. I'm an Italian descendant and for this reason, I'm fascinated by the Italian culture and all things related to the Mother Country.
+I'm Paulo, a Brazilian software engineer who loves technology and works with mobile app development with experience in the creation of native Android apps utilizing Kotlin and Java. 
+
+My main hobby is reading but I also like to listen to some rock and roll, watch movies, learn new things, and casually play video games. I'm an Italian descendant and for this reason, I'm fascinated by the Italian culture and all things related to the Mother Country.
 
 ## &#x1f4c8; GitHub Stats
 
