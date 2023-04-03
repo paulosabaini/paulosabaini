@@ -1,11 +1,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulosabaini/)
-[![Google Developer Profile](https://img.shields.io/badge/Google_Developer_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/paulosabaini)
+[![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)]()
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)]()
 
 Ciao 👋
 
-I'm Paulo, a Brazilian software engineer who loves technology and works with mobile app development with experience in the creation of native Android apps utilizing Kotlin and Java. 
+I’m Paulo, a Mobile developer with a passion for creating native and cross-platform apps using Kotlin and Flutter. I have experience working on projects for various sectors, such as banking, telecom, and coffee. I’m always eager to learn new technologies and improve my skills. 
 
-My main hobby is reading but I also like to listen to some rock and roll, cook, watch movies, learn new things, and casually play video games. I'm an Italian descendant and for this reason, I'm fascinated by the Italian culture and all things related to the Mother Country.
+I enjoy reading books, listening to rock and roll music, cooking delicious meals, watching movies, learning new things, and playing video games in my spare time. I have Italian roots and I’m fascinated by the culture and history of Italy.
 
 <br>
 
