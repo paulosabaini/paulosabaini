@@ -4,9 +4,9 @@
 
 Ciao 👋
 
-I’m Paulo, a Mobile developer with a passion for creating native and cross-platform apps using Kotlin and Flutter. I have experience working on projects for various sectors, such as banking, telecom, and coffee. I’m always eager to learn new technologies and improve my skills. 
+I’m Paulo, a Mobile developer with a passion for creating native and cross-platform apps using Kotlin and Flutter. I have experience working on projects for various sectors, such as finance, telecom, and coffee. I’m always eager to learn new technologies and improve my skills. 
 
-I enjoy reading books, listening to rock and roll music, cooking delicious meals, watching movies, learning new things, and playing video games in my spare time. I have Italian roots and I’m fascinated by the culture and history of Italy.
+I enjoy reading books, listening to rock music, baking, cooking, watching movies and tv shows, learning new things, and practicing sports. I have Italian roots and I’m fascinated by the culture and history of Italy.
 
 <br>
 
