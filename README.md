@@ -1,12 +1,30 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulosabaini/)
-[![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)]()
+# Hey, I'm Paulo 👋
 
-Ciao 👋
+### Mobile Developer | Kotlin Enthusiast | Lifelong Learner
 
-I’m Paulo, a Android developer with a passion for creating native and cross-platform apps using Kotlin. I have experience working on projects for various sectors, such as finance, telecom, and coffee. I’m always eager to learn new technologies and improve my skills. 
+I am a dedicated Mobile Developer focused on building robust, scalable native and cross-platform applications. With experience across the **FinTech**, **Logistic/Transport** and **Telecommunications** sectors, I thrive on turning complex requirements into elegant, user-centric mobile experiences.
 
-I enjoy reading books, listening to rock music, baking, cooking, watching movies and tv shows, learning new things, and practicing sports. I have Italian roots and I’m fascinated by the culture and history of Italy.
+---
 
-<br>
+### 🛠 Technical Toolbox
 
-![stats](https://github-readme-stats.vercel.app/api?username=paulosabaini&hide=contribs&show_icons=true&include_all_commits=true&count_private=true)
+* **Languages:** Kotlin, Java, Swift (iOS), Dart
+* **Mobile Frameworks:** Android SDK, Jetpack Compose, Kotlin Multiplatform, Compose Multiplatform, Flutter
+* **Architecture:** MVVM, Clean Architecture, MVI, Dependency Injection (Hilt/Koin)
+* **Tools & APIs:** Retrofit, Coroutines/Flow, Firebase, Room, Unit/UI Testing
+
+---
+
+### ⚡ Beyond the Code
+When I'm not in the IDE, I'm likely exploring my Italian heritage or pursuing one of my many interests:
+* **Books:** Lifelong reader, my favorite genres are: Fantasy, Science Fiction, History, Adventure, Novels, Graphic Novels.
+* **The Kitchen:** I’m an avid cook and baker (always perfecting the recipe).
+* **Audio/Visual:** Big fan of rock music, cinema, and gripping TV series.
+* **Stay Active:** I enjoy practicing sports and continuous learning in all forms.
+
+---
+
+### 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulosabaini/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pasabaini@gmail.com)
